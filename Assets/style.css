@@ -81,6 +81,8 @@ input:checked + .slider:before{
   transform: translateX(50px);
 }
 
+
+
 /*****************************
 **********FORM DESIGN*********
 ******************************/
