@@ -11,7 +11,7 @@ body{
 .row_poster{
     width: 100%;
     object-fit: contain;
-    max-height: 100px;
+    max-height: 150px;
     margin-right: 10px;
     transition: transform 450ms;
 }
@@ -32,7 +32,7 @@ body{
 }
 
 .row_PosterLarge{
-    max-height: 250px;;
+    max-height: 300px;;
 }
 
 .row_PosterLarge:hover{
